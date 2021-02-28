@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: CornerBotLeftNeg
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 5528172808616260472, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: 2768622549840867429, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: 3036885705847458861, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: -3447060607274946825, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: -4087319329496520914, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: -274948387984067785, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: 2471576479879256365, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: 8024454736896114767, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: -9054807401002850598, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: -4563917220788622656, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: 3268124006053337596, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: 975403467932725083, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: 6294142358895384113, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: -4305399774169273309, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: 4482430451559281066, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: 864743429355212384, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: -6356444398847347573, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: 5161625787080720590, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: 9121341322557431633, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: -4469739769901179853, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: -6254269550949918896, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  - {fileID: -3547115357727538414, guid: 263dd065078154b4b82ff3966dd59366, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1

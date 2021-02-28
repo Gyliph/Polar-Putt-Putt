@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hole
+  - Ball
+  - DeathTile
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2887442691
+    locked: 0
+  - name: DeathTile
+    uniqueID: 4060707381
+    locked: 0
+  - name: Hole
+    uniqueID: 4110382811
+    locked: 0
+  - name: Wall
+    uniqueID: 592393429
+    locked: 0
+  - name: Ball
+    uniqueID: 4223451577
+    locked: 0
